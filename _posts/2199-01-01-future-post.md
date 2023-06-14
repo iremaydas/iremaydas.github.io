@@ -7,4 +7,4 @@ tags:
   - pre-election polls
 ---
 
-[Read paper here]([https://dergipark.org.tr/tr/pub/pausbed/issue/72057/1119635](https://fikirturu.com/insan/secim-anketleri-ne-kadar-guvenilir-arastirmalar-ne-gosteriyor/)https://fikirturu.com/insan/secim-anketleri-ne-kadar-guvenilir-arastirmalar-ne-gosteriyor/)
+[Read paper here] (https://fikirturu.com/insan/secim-anketleri-ne-kadar-guvenilir-arastirmalar-ne-gosteriyor/)https://fikirturu.com/insan/secim-anketleri-ne-kadar-guvenilir-arastirmalar-ne-gosteriyor/)
