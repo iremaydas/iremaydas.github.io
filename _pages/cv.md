@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Political Science, Sabancı University, 2026 (expected)
 * M.A. in Conflict Analysis and Resolution, Sabancı University, 2021
-  *Thesis Title: Pre-election Polls in Turkey
+  * Thesis Title: Pre-election Polls in Turkey
 * B.A. in Psychology, Kadir Has University, 2017
 * B.A. in International Relations, Kadir Has University, 2017
 
