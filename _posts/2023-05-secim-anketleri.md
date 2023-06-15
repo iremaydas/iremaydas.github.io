@@ -7,4 +7,4 @@ tags:
   - pre-election polls
 ---
 
-<a href="(https://fikirturu.com/insan/secim-anketleri-ne-kadar-guvenilir-arastirmalar-ne-gosteriyor/)">Read paper here</a>
+<a href="https://fikirturu.com/insan/secim-anketleri-ne-kadar-guvenilir-arastirmalar-ne-gosteriyor/">Read paper here</a>
