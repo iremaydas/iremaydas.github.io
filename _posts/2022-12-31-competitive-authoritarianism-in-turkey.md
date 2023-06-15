@@ -7,4 +7,4 @@ tags:
   - Turkey
 ---
 
-[Read paper here] (https://www.democratic-erosion.com/2022/12/31/competitive-authoritarianism-in-turkey/)
+<a href="https://www.democratic-erosion.com/2022/12/31/competitive-authoritarianism-in-turkey/">Read paper here</a>
