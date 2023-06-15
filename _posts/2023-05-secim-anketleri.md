@@ -1,7 +1,7 @@
 ---
 title: 'Seçim anketleri ne kadar güvenilir? Araştırmalar ne gösteriyor?'
 date: 2023-05-15
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2023/05/secim-anketleri/
 tags:
   - seçim anketleri
   - pre-election polls
