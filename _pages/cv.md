@@ -51,7 +51,7 @@ Publications
 
 Skills
 ======
-* Software: Stata, R, Python, SPSS, Latex
+* Software: Stata, R, Python, SPSS, Latex, LimeSurvey, Qualtrics
 * Methodology
   * <i>Sabancı University</i>: Research Methods (CONF512), Methods and Scope of Political Analysis (POLS529), Quantitative Research Methods (POLS530), Formal Modeling and Policy Analysis I (POLS534), Advance Research Methods and Data Analysis in Political Science (POLS537), Qualitative Methods (POLS531).
   * <i>SICSS-Istanbul 2019</i>: Text analysis, website scraping, digital field experiments, machine learning.
